@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" tools:ignore="ExtraTranslation">ChatApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_anasayfa">Anasayfa</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Turco Mente</string>
+    <string name="nav_header_subtitle">turcomente@turcomente.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_message">Mesajlar</string>
+    <string name="title_activity_duyuru">Duyuru</string>
+    <string name="title_activity_galeri">Galeri</string>
+    <string name="title_activity_yoklama">Yoklama</string>
+    <string name="title_activity_yemek">Yemek Listesi</string>
+    <string name="title_activity_activite">Activiteler</string>
+    <string name="title_activity_izin">Izinler</string>
+    <string name="title_activity_gunlukaktivite">Gunlukaktivite</string>
+</resources>

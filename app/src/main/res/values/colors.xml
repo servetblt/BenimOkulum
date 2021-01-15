@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3eaeae</color>
+    <color name="colorPrimaryDark">#226e6e</color>
+    <color name="colorAccent">#226e6e</color>
+    <color name="kara">#000000</color>
+    <color name="al">#b10003</color>
+    <color name="ak">#ffffff</color>
+    <color name="mavia">#5496ff</color>
+    <color name="turuncu">#c7400f</color>
+    <color name="yesil">#018b01</color>
+    <color name="pembe">#ff0066</color>
+    <color name="mor">#ff01e1</color>
+    <color name="mavik">#303F9F</color>
+    <color name="sari">#ffdd00</color>
+    <color name="gri">#63625b</color>
+    <color name="duyuru">#757877</color>
+    <color name="beyaz">#ffffff</color>
+</resources>
